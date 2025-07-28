@@ -2,8 +2,8 @@
 
 ![Arduino](https://img.shields.io/badge/Arduino-%2300878F?logo=Arduino&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Status](https://img.shields.io/badge/status-experimental-yellow)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+<!--![Status](https://img.shields.io/badge/status-experimental-yellow)-->
 
 **MorseCodeX** is an Arduino-based Morse code encoder and decoder. It enables users to input text via a T9-style 4x4 keypad, convert it to Morse code for transmission through an LED and buzzer, and decode Morse code entered via a push button, with results displayed on a 16x2 I2C LCD.
 
